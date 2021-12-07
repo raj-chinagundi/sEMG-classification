@@ -5,5 +5,5 @@ The purpose of this study was to determine electromyographically if there are si
 Run ```PycaretMuscle.ipynb``` to reproduce results on [Dataset](http://archive.ics.uci.edu/ml/datasets/emg+dataset+in+lower+limb)
 <br>
 <p align="center">
-![example](https://github.com/basavraj-chinagundi/sEMG-classification/blob/main/The-placement-of-16-surface-EMG-sensors-and-two-accelerometers-over-lower-extremity.png)
+<img src="https://github.com/basavraj-chinagundi/sEMG-classification/blob/main/The-placement-of-16-surface-EMG-sensors-and-two-accelerometers-over-lower-extremity.png")
 </p>
