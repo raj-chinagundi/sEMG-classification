@@ -45,3 +45,7 @@ The aim of this study was to determine, using electromyography (EMG), if there a
 - **iForest Anomaly Detection Technique**:
   - The isolation forest (iForest) anomaly detection technique achieved 98.5% accuracy with the Light Gradient Boosting Machine algorithm.
   - This surpassed previous maximum accuracies of 92.5% and 91%, improving accuracy by 6%-7% for the classification of knee abnormalities using machine learning.
+
+ ## Workflow Diagram
+
+ ![Workflow](https://github.com/raj-chinagundi/sEMG-classification/blob/main/Screenshot%202024-06-06%20at%2012.24.35%20AM.png)
