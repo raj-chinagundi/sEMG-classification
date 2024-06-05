@@ -15,7 +15,7 @@ The aim of this study was to determine, using electromyography (EMG), if there a
   - Standing
   - Walking
 
-- **Data Collection**:
+- **Data Collection(Note: Dataset Downloaded from publicly available repository)**:
   - Surface electromyography (sEMG) data was obtained from the lower limbs.
   - sEMG signal duration was measured.
   - It was observed that participants with knee deformities took longer to complete tasks than healthy subjects.
