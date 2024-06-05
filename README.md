@@ -42,10 +42,6 @@ The aim of this study was to determine, using electromyography (EMG), if there a
 
 ### Anomaly Detection
 
-- **Techniques Used**:
-  - Various anomaly detection techniques were employed to detect occurrences in sEMG signals that significantly differed from the majority of data.
-  - These techniques enhanced the model's performance.
-
 - **iForest Anomaly Detection Technique**:
   - The isolation forest (iForest) anomaly detection technique achieved 98.5% accuracy with the Light Gradient Boosting Machine algorithm.
   - This surpassed previous maximum accuracies of 92.5% and 91%, improving accuracy by 6%-7% for the classification of knee abnormalities using machine learning.
